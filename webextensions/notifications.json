@@ -1,0 +1,490 @@
+{
+  "notifications": {
+    "Basic support": {
+      "Chrome": {
+        "support": true
+      },
+      "Opera": {
+        "support": "33"
+      },
+      "Edge": {
+        "support": false
+      },
+      "Firefox": {
+        "support": "45.0"
+      },
+      "Firefox for Android": {
+        "support": "48.0"
+      }
+    }
+  },
+  "notifications.onClosed": {
+    "Basic support": {
+      "Chrome": {
+        "support": true
+      },
+      "Opera": {
+        "support": "33"
+      },
+      "Edge": {
+        "support": false
+      },
+      "Firefox": {
+        "notes": [
+          "byUser is not supported."
+        ],
+        "support": "45.0"
+      },
+      "Firefox for Android": {
+        "notes": [
+          "byUser is not supported."
+        ],
+        "support": "48.0"
+      }
+    },
+    "byUser": {
+      "Chrome": {
+        "support": true
+      },
+      "Opera": {
+        "support": "33"
+      },
+      "Edge": {
+        "support": false
+      },
+      "Firefox": {
+        "support": false
+      },
+      "Firefox for Android": {
+        "support": false
+      }
+    }
+  },
+  "notifications.onButtonClicked": {
+    "Basic support": {
+      "Chrome": {
+        "support": true
+      },
+      "Opera": {
+        "support": "33"
+      },
+      "Edge": {
+        "support": false
+      },
+      "Firefox": {
+        "support": false
+      },
+      "Firefox for Android": {
+        "support": false
+      }
+    }
+  },
+  "notifications.clear": {
+    "Basic support": {
+      "Chrome": {
+        "support": true
+      },
+      "Opera": {
+        "support": "33"
+      },
+      "Edge": {
+        "support": false
+      },
+      "Firefox": {
+        "support": "45.0"
+      },
+      "Firefox for Android": {
+        "support": "48.0"
+      }
+    }
+  },
+  "notifications.getAll": {
+    "Basic support": {
+      "Chrome": {
+        "support": true
+      },
+      "Opera": {
+        "support": "33"
+      },
+      "Edge": {
+        "support": false
+      },
+      "Firefox": {
+        "support": "45.0"
+      },
+      "Firefox for Android": {
+        "support": "48.0"
+      }
+    }
+  },
+  "notifications.update": {
+    "Basic support": {
+      "Chrome": {
+        "support": true
+      },
+      "Opera": {
+        "notes": [
+          "Not supported on Macs."
+        ],
+        "support": "33"
+      },
+      "Edge": {
+        "support": false
+      },
+      "Firefox": {
+        "support": false
+      },
+      "Firefox for Android": {
+        "support": false
+      }
+    }
+  },
+  "notifications.onClicked": {
+    "Basic support": {
+      "Chrome": {
+        "support": true
+      },
+      "Opera": {
+        "support": "33"
+      },
+      "Edge": {
+        "support": false
+      },
+      "Firefox": {
+        "support": "47.0"
+      },
+      "Firefox for Android": {
+        "support": "48.0"
+      }
+    }
+  },
+  "notifications.TemplateType": {
+    "Basic support": {
+      "Chrome": {
+        "support": true
+      },
+      "Opera": {
+        "support": "33"
+      },
+      "Edge": {
+        "support": false
+      },
+      "Firefox": {
+        "support": "45.0"
+      },
+      "Firefox for Android": {
+        "support": "48.0"
+      }
+    },
+    "image": {
+      "Chrome": {
+        "support": true
+      },
+      "Opera": {
+        "support": false
+      },
+      "Edge": {
+        "support": false
+      },
+      "Firefox": {
+        "support": false
+      },
+      "Firefox for Android": {
+        "support": false
+      }
+    },
+    "list": {
+      "Chrome": {
+        "support": true
+      },
+      "Opera": {
+        "support": false
+      },
+      "Edge": {
+        "support": false
+      },
+      "Firefox": {
+        "support": false
+      },
+      "Firefox for Android": {
+        "support": false
+      }
+    },
+    "progress": {
+      "Chrome": {
+        "support": true
+      },
+      "Opera": {
+        "support": false
+      },
+      "Edge": {
+        "support": false
+      },
+      "Firefox": {
+        "support": false
+      },
+      "Firefox for Android": {
+        "support": false
+      }
+    }
+  },
+  "notifications.create": {
+    "Basic support": {
+      "Chrome": {
+        "support": true
+      },
+      "Opera": {
+        "support": "33"
+      },
+      "Edge": {
+        "support": false
+      },
+      "Firefox": {
+        "support": "45.0"
+      },
+      "Firefox for Android": {
+        "support": "48.0"
+      }
+    }
+  },
+  "notifications.NotificationOptions": {
+    "Basic support": {
+      "Chrome": {
+        "support": true
+      },
+      "Opera": {
+        "support": "33"
+      },
+      "Edge": {
+        "support": false
+      },
+      "Firefox": {
+        "support": "45.0"
+      },
+      "Firefox for Android": {
+        "support": "48.0"
+      }
+    },
+    "type": {
+      "Chrome": {
+        "support": true
+      },
+      "Opera": {
+        "support": "33"
+      },
+      "Edge": {
+        "support": false
+      },
+      "Firefox": {
+        "support": "45.0"
+      },
+      "Firefox for Android": {
+        "support": "48.0"
+      }
+    },
+    "message": {
+      "Chrome": {
+        "support": true
+      },
+      "Opera": {
+        "support": "33"
+      },
+      "Edge": {
+        "support": false
+      },
+      "Firefox": {
+        "support": "45.0"
+      },
+      "Firefox for Android": {
+        "support": "48.0"
+      }
+    },
+    "title": {
+      "Chrome": {
+        "support": true
+      },
+      "Opera": {
+        "support": "33"
+      },
+      "Edge": {
+        "support": false
+      },
+      "Firefox": {
+        "support": "45.0"
+      },
+      "Firefox for Android": {
+        "support": "48.0"
+      }
+    },
+    "iconUrl": {
+      "Chrome": {
+        "support": true
+      },
+      "Opera": {
+        "support": "33"
+      },
+      "Edge": {
+        "support": false
+      },
+      "Firefox": {
+        "support": "45.0"
+      },
+      "Firefox for Android": {
+        "support": "48.0"
+      }
+    },
+    "contextMessage": {
+      "Chrome": {
+        "support": true
+      },
+      "Opera": {
+        "support": "33"
+      },
+      "Edge": {
+        "support": false
+      },
+      "Firefox": {
+        "support": false
+      },
+      "Firefox for Android": {
+        "support": false
+      }
+    },
+    "priority": {
+      "Chrome": {
+        "support": true
+      },
+      "Opera": {
+        "support": "33"
+      },
+      "Edge": {
+        "support": false
+      },
+      "Firefox": {
+        "support": false
+      },
+      "Firefox for Android": {
+        "support": false
+      }
+    },
+    "eventTime": {
+      "Chrome": {
+        "support": true
+      },
+      "Opera": {
+        "support": "33"
+      },
+      "Edge": {
+        "support": false
+      },
+      "Firefox": {
+        "support": false
+      },
+      "Firefox for Android": {
+        "support": false
+      }
+    },
+    "buttons": {
+      "Chrome": {
+        "support": true
+      },
+      "Opera": {
+        "support": "33"
+      },
+      "Edge": {
+        "support": false
+      },
+      "Firefox": {
+        "support": false
+      },
+      "Firefox for Android": {
+        "support": false
+      }
+    },
+    "imageUrl": {
+      "Chrome": {
+        "support": true
+      },
+      "Opera": {
+        "support": "33"
+      },
+      "Edge": {
+        "support": false
+      },
+      "Firefox": {
+        "support": false
+      },
+      "Firefox for Android": {
+        "support": false
+      }
+    },
+    "items": {
+      "Chrome": {
+        "support": true
+      },
+      "Opera": {
+        "support": "33"
+      },
+      "Edge": {
+        "support": false
+      },
+      "Firefox": {
+        "support": false
+      },
+      "Firefox for Android": {
+        "support": false
+      }
+    },
+    "progress": {
+      "Chrome": {
+        "support": true
+      },
+      "Opera": {
+        "support": "33"
+      },
+      "Edge": {
+        "support": false
+      },
+      "Firefox": {
+        "support": false
+      },
+      "Firefox for Android": {
+        "support": false
+      }
+    },
+    "appIconMaskUrl": {
+      "Chrome": {
+        "support": true
+      },
+      "Opera": {
+        "support": "33"
+      },
+      "Edge": {
+        "support": false
+      },
+      "Firefox": {
+        "support": false
+      },
+      "Firefox for Android": {
+        "support": false
+      }
+    },
+    "isClickable": {
+      "Chrome": {
+        "support": true
+      },
+      "Opera": {
+        "support": "33"
+      },
+      "Edge": {
+        "support": false
+      },
+      "Firefox": {
+        "support": false
+      },
+      "Firefox for Android": {
+        "support": false
+      }
+    }
+  }
+}
